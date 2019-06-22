@@ -26,5 +26,5 @@ They have been written so that examples can be followed through the notebook, th
 
 At the end of each notebook are questions. There will be cells below the question that the student is expected to modify and run to get the requested output.
 
-The reason for the bundling of questions with examples in the same notebooks is so that functions can be written by instructors that can then get students to call those functions to answer questions.
+The reason for the bundling of questions with examples in the same notebooks is so that functions can be written by instructors, who can then get students to call those functions to answer questions. This will allow instructors to patch any programming difficulties with an assistive function --  allowing students to focus on the mathematics, rather than the programming. 
 
