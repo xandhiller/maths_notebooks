@@ -1,0 +1,6 @@
+Problem:
+    Mathematical tools of PDEs exist, but due to some loss of subjects over time, students are not trained in their use. This blocks them from using them in Electrodynamics and subsequently blocks this body of knowledge being used to construct antennas and waveguides, in an increasingly wireless world.
+Solution:
+    Bring back Fields and Waves, an applicable use of PDEs in EE and develop lecture notes to bridge this gap, as well as computer labs to allow students to accurately compute and visualise their results. PDEs naturally lend themselves to visualisation.
+How:
+    Alex has made these before for 'Mathematical Modelling 1' and for 'Introduction to Mathematical Analysis and Modelling', with great success. Alex has also completed subjects and research in the Mathematics department and can develop the abridging lecture notes.
